@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redbeard's Cues</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div id="wrapper">
+    <div class="header">
+        <a href="/"><img src="~/css/Header Image PNG.png" width="800" height="324" alt="Home"></a>
+        <div class="top-left"><h1>Redbeard's Cues</h1></div>
+        
+    </div>
+    <div class="nav">
+        <div class="signin"><a href="Sign-In.html">| Sign In  |</a></div>
+        <a href="/products">Products  |</a>
+        <a href="/services"> Services  |</a>
+        <a href="/about"> About Us  |</a>
+        <!-- <a href="#"> Contact Us</a> -->
+    </div>
+    
+    <div class="main-content2">
+        <div class="scrollbox">
+            <div class="sign-in">
+                <h2>Sign in</h2><br>
+                <form asp-action="Login" method="post">
+                    <span asp-validation-for="Email"></span>
+                    <input type="email" placeholder="Email"><br><br>
+
+                    <span asp-validation-for="Password"></span>
+                    <input type="password" placeholder="Password"><br><br>
+
+                    <p><a href="/registration">Register Here!</a>
+                    <a href="#">Forgot Password!</a>
+                    </p>
+                    <br>
+                    <input type="submit" placeholder="Submit">
+                </form>
+            </div>
+            <br>
+            <hr width="80%">
+            <br>
+            <div class="regform">
+                <h2>Register</h2>
+                <br>
+                <form asp-action="Register" method="POST">
+                    @model User
+                    <span asp-validation-for="FirstName"></span>
+                    <input type="text" placeholder="First Name">
+                    <br>
+                    <span asp-validation-for="LastName"></span>
+                    <input type="text" placeholder="Last Name">
+                    <br>
+                    <span asp-validation-for="Email"></span>
+                    <input type="email" placeholder="Email">
+                    <br>
+                    <span asp-validation-for="Password"></span>
+                    <input type="password" placeholder="Password">
+                    <br>
+                    <span asp-validationfor="ConfPassword"></span>
+                    <input type="password" placeholder="Confirm Password">
+                    <!-- <br><br>
+                    <p>How did you hear about us?</p>
+                    <input type="checkbox" name="Facebook" id="facebox">
+                    <label for="facebox">Facebook</label><br>
+                    <input type="checkbox" name="Instagram" id="instabox">
+                    <label for="instabox">Instagram</label><br>
+                    <input type="checkbox" name="Other" id="otherbox">
+                    <label for="otherbox">Other</label>
+                    <input type="text" placeholder="Please explain..."> -->
+                    <br><br>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+                
+        </div>
+    </div>
+
+    <footer>
+        <p>Redbeard Cues LLC</p>
+    </footer>
+
+    
+    
+
+</body>
+</html>

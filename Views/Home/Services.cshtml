@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redbeard's Cues</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div id="wrapper">
+    <div class="header">
+        <a href="/"><img src="~/css/Header Image PNG.png" width="800" height="324"></a>
+        <div class="top-left"><h1>Redbeard's Cues</h1></div>
+        <div class="user-info">
+            <div class="useraccount">
+                <ul>
+                    <li class="userinfo">Welcome User! <label><img src="~/css/profileimg.png" width="25"></label></li>
+                    <!-- <button name="userinfo1">User Info</button> -->
+                    <!-- <li class="viewaccount"><a href="#">View Account</a></li> -->
+                </ul>
+            </div>
+            <!-- <p><a href="#">View Cart<img src="Images\shopping-cart.png" width="30"></a></p> -->
+        </div>
+    </div>
+    <!-- <div id="boxes"> -->
+    <div class="nav">
+        <div class="signin" title="Click Here to Sign In!">| Sign In  |</div>
+        <a href="/products">Products  |</a>
+        <a href="/services"> Services  |</a>
+        <a href="/about"> About Us  |</a>
+        <!-- <a href="#"> Contact Us  |</a> -->
+    </div>
+    
+    <div id="account-toggle" style="display: none;">
+        <form action="account" method="POST" name="account">
+            <ul>
+                <li><a href="">Account</a></li>
+                <li><a href="">Orders</a></li>
+                <li><a href="">Wish List</a></li>
+                <li><a href="">Sign Out</a></li>
+            </ul>
+        </form>
+    </div>
+
+    <div class="main-content2">
+
+        <div class="scrollbox">
+            <p><h2>What We Offer</h2></p>
+            <ul>
+                <li>Services</li>
+                <li>Shaft</li>
+                <li>Straigtening</li>
+                <li>Ferrule</li>
+                <li>Cleaning</li>
+                <li>Create a Custom Cue</li>
+            </ul>
+        </div>
+        
+        <div class="view-menu">
+            <div class="content-info">
+                <div class="shaft">
+                    <img src="~/css/shaftclean.jpg" width="200">
+                    <p>Every shaft needs to have a smooth, playable surface. We'll take off your shaft's old varnish, and apply a new one in no time.</p>
+                    <hr>
+                </div>
+
+                <div class="straightening">
+                    <img src="~/css/straight.jpg" width="200">
+                    <p>Over time, a cue tends to bend and warp. Our one week process allows us to straighten any wooden cue, so you can get back on the table with your once favorite cue.</p>
+                    <hr>
+                </div>
+
+                <div class="ferrule">
+                    <img src="~/css/ferrule.jpg" width="200">
+                    <p>Let us make your ferrule looks like-new, or replace the old one. $15 ferrule replacement (+ choice of tip).</p>
+                    <hr>
+                </div>
+
+                <div class="cleaning">
+                    <img src="~/css/cleaning.jpg" width="200">
+                    <p>We take off the old varnish on your pool cue, and replace it. Your cue will play and feel like it did when you first purchased it!</p>
+                    <hr>
+                </div>
+
+                <div class="custom">
+                    <img src="~/css/custom.jpg" width="200">
+                    <p>We'll work with you to make the cue you've always dreamed of.</p>
+                    <hr>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <!-- </div> -->
+
+    <footer>
+        <p>Redbeard Cues LLC</p>
+    </footer>
+
+    <div class="signpop" style="display:none">
+        <form action="/Redbeard.html" method="POST" name="form">
+            <hr width="96%">
+            <h3>Sign In</h3>
+            <ul>
+                <li>Email: <br>
+                    <input type="text" name="email"></textarea></li>
+                    <li>Password: <br>
+                        <input type="password" name="password"></textarea></li>
+                    </ul>
+                    <p>
+                        <a href="Registration.html">Register Here!</a>
+                        <a href="#">Forgot Password!</a>
+                    </p>
+                    <br>
+                    <button type="submit">Submit</button>
+            <div class="xout">
+                <label for="">X</label>
+            </div>
+        </form>
+        <br><br><br><br><br><br><br>
+
+
+    </div>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script type="text/javascript" src="Redbeard-user-toggle.js"></script>
+</body>
+</html>

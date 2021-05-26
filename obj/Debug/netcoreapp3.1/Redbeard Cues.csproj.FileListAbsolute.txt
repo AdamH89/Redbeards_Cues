@@ -1,0 +1,132 @@
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.exe
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.deps.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.runtimeconfig.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.runtimeconfig.dev.json
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.pdb
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.Views.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.Views.pdb
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csprojAssemblyReference.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.AssemblyInfoInputs.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.AssemblyInfo.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csproj.CoreCompileInputs.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorAssemblyInfo.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorAssemblyInfo.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.TagHelpers.input.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.TagHelpers.output.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorCoreGenerate.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorTargetAssemblyInfo.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorTargetAssemblyInfo.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.Views.pdb
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csproj.CopyComplete
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\staticwebassets\Redbeard Cues.StaticWebAssets.Manifest.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\staticwebassets\Redbeard Cues.StaticWebAssets.xml
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.dll
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.pdb
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.genruntimeconfig.cache
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\beard\Desktop\Test Projects\Redbeard Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Signin.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\Redbeard Cues.deps.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\Redbeard Cues.runtimeconfig.dev.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\netcoreapp3.1\Redbeard Cues.runtimeconfig.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.exe
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.deps.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.runtimeconfig.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.runtimeconfig.dev.json
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.pdb
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.Views.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Redbeard Cues.Views.pdb
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csprojAssemblyReference.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.AssemblyInfoInputs.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.AssemblyInfo.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csproj.CoreCompileInputs.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorAssemblyInfo.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorAssemblyInfo.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.TagHelpers.input.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.TagHelpers.output.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorCoreGenerate.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Home\Signin.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorTargetAssemblyInfo.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.RazorTargetAssemblyInfo.cs
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.Views.pdb
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.csproj.CopyComplete
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\staticwebassets\Redbeard Cues.StaticWebAssets.Manifest.cache
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\staticwebassets\Redbeard Cues.StaticWebAssets.xml
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.dll
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.pdb
+C:\Users\beard\OneDrive\Documents\GitHub\Redbeards_Cues\obj\Debug\netcoreapp3.1\Redbeard Cues.genruntimeconfig.cache
